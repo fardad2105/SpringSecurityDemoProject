@@ -1,0 +1,4 @@
+1 - if we want to use PreAuthorize in above all methods we can comment antMatchers in
+ApplicationSecurityConfig class
+
+
