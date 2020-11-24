@@ -2,7 +2,7 @@
 in this project we will implement good stuff and important part about Spring Security 
 
 # The items(Spring Security) that we worked on in this project include the following parts
- 1- Basic Authentication
+ 1- Basic Authentication <br/>
  2- Ant Matchers
  3- Password Encodder
  4- Add Role(Enum base)
